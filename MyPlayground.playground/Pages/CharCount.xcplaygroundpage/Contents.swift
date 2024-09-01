@@ -55,4 +55,36 @@ if let result = firstUniqueCharacter(in: input) {
 } else {
     print("No unique character found")
 }
+
+/*:
+ __Find the most common element in an Array in Swift__
+ */
+func mostCommonElement<T:Hashable>(inputArr:[T]) -> T? {
+    var frequencyDict:[T:Int] = [:]
+    for item in inputArr {
+        if let count = frequencyDict[item], count > 0 {
+            frequencyDict[item] = count+1
+        } else {
+            frequencyDict[item] = 1
+        }
+    }
+    print(frequencyDict)
+    let maxCount = frequencyDict.values.max()
+    for (key,value) in frequencyDict {
+        if value == maxCount {
+            return key
+        }
+    }
+    return nil
+}
+let inputArr = [2,4,7,3,5,9,2,4,7,2]
+if let mostCommon = mostCommonElement(inputArr: inputArr) {
+    print("Most common element:\(mostCommon)")
+}
+
+let inputArrString = "Original String hello world"
+if let mostCommon = mostCommonElement(inputArr: Array(inputArrString.uppercased())) {
+    print("Most common element:\(mostCommon)")
+}
+
 //: [Next](@next)
