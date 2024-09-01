@@ -2,7 +2,9 @@
 
 import Foundation
 /*:
- __Swift Program to Find the Frequency of Characters in a String__
+ ***
+ Swift Program to Find the Frequency of Characters in a String
+ ***
  */
 func countEachCharacter(in str: String) -> [Character: Int] {
     var charCountDict: [Character: Int] = [:]
@@ -28,7 +30,9 @@ for (char, count) in counts {
 }
 
 /*:
- __Find the first unique character from a string in Swift__
+ ***
+ Find the first unique character from a string in Swift
+ ***
  */
 func firstUniqueCharacter(in string: String) -> Character? {
     var charCountDict: [Character: Int] = [:]
@@ -57,7 +61,9 @@ if let result = firstUniqueCharacter(in: input) {
 }
 
 /*:
- __Find the most common element in an Array in Swift__
+ ***
+ Find the most common element in an Array in Swift;
+ ***
  */
 func mostCommonElement<T:Hashable>(inputArr:[T]) -> T? {
     var frequencyDict:[T:Int] = [:]

@@ -4,10 +4,11 @@
  I will be including more examples as I find them.
  
  __Note: Press Ctrl + Shift + R to show rendered markup__
- 
+ ***
  ### Table of Contents
+ ***
  * [To count the occurrences of each character in a string](CharCount)
- - [Enum Examples](Enum)
+ - [Find index of sum of two element is equal to given sum](SumOfIndex)
  - [AsyncAwait](AsyncAwait)
  - [Generics](Generics)
  - [Closure](Closure)
