@@ -4,5 +4,6 @@
         <page name='Introduction'/>
         <page name='CharCount'/>
         <page name='SumOfIndex'/>
+        <page name='ValidParentheses'/>
     </pages>
 </playground>

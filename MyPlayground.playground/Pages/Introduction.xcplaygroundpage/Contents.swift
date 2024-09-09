@@ -9,7 +9,7 @@
  ***
  * [To count the occurrences of each character in a string](CharCount)
  - [Find index of sum of two element is equal to given sum](SumOfIndex)
- - [AsyncAwait](AsyncAwait)
+ - [Program that checks if a string containing parentheses is valid:](ValidParentheses)
  - [Generics](Generics)
  - [Closure](Closure)
  - [GCD](GCD)
