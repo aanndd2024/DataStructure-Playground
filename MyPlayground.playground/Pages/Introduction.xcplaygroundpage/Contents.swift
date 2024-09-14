@@ -10,7 +10,7 @@
  * [To count the occurrences of each character in a string](CharCount)
  - [Find index of sum of two element is equal to given sum](SumOfIndex)
  - [Program that checks if a string containing parentheses is valid:](ValidParentheses)
- - [Generics](Generics)
+ - [Move zero at the end of the array](MoveZeroToEnd)
  - [Closure](Closure)
  - [GCD](GCD)
  - [OperationQueue](OperationQueue)

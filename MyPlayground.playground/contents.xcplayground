@@ -5,5 +5,6 @@
         <page name='CharCount'/>
         <page name='SumOfIndex'/>
         <page name='ValidParentheses'/>
+        <page name='MoveZeroToEnd'/>
     </pages>
 </playground>
