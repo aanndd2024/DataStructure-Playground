@@ -11,7 +11,7 @@
  - [Find index of sum of two element is equal to given sum](SumOfIndex)
  - [Program that checks if a string containing parentheses is valid:](ValidParentheses)
  - [Move zero at the end of the array](MoveZeroToEnd)
- - [Closure](Closure)
+ - [Draw Triangle](DrawTriangle)
  - [GCD](GCD)
  - [OperationQueue](OperationQueue)
  - [RestAPICOmpletionHandler](RestAPICOmpletionHandler)
