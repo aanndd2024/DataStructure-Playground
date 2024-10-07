@@ -24,7 +24,7 @@ let targetSum = 10
 let pairs = findPairsOfGivenSum(arr: arrayElements, sum: targetSum)
 print(pairs)
 
-func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+func twoSum(nums: [Int], target: Int) -> [Int] {
     var dict = [Int: Int]()
     
     for (i, num) in nums.enumerated() {
@@ -36,6 +36,6 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     return []
 }
 
-print(twoSum([2,3,5,1,4,8,9], 10))
+print(twoSum(nums: [2,3,5,1,4,8,9], target: 10))
 //: [Next](@next)
 
