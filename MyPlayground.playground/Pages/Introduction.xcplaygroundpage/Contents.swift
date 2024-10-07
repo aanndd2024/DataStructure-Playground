@@ -14,7 +14,7 @@
  - [Three Sum Problem](3SumProblem)
  - [Draw Triangle](DrawTriangle)
  - [Most Common Prefix from array of Strings](MostCommonPrefix)
- - [RestAPICOmpletionHandler](RestAPICOmpletionHandler)
+ - [Reverse a string "Hello World" to "dlrow olleh"](ReverseString)
  - [HigherOrderFunction](HigherOrderFunction)
  - [MVVM](MVVM)
  - [VIPER](VIPER)
