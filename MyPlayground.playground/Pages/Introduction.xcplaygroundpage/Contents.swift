@@ -16,7 +16,7 @@
  - [Most Common Prefix from array of Strings](MostCommonPrefix)
  - [Reverse a string "Hello World" to "dlrow olleh"](ReverseString)
  - [HigherOrderFunction](HigherOrderFunction)
- - [MVVM](MVVM)
+ - [Calculate the sum of both the main diagonal and the cross diagonal elements for a 3x3 matrix. Skip middle diagnol twice, consider only once](SumOfDiagonal)
  - [VIPER](VIPER)
  - [SolidPrinciple](SolidPrinciple)
 
