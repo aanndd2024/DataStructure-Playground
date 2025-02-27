@@ -19,4 +19,21 @@ let matrix = [
 ]
 
 getSumOfDiagnols(arr: matrix)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //: [Next](@next)
