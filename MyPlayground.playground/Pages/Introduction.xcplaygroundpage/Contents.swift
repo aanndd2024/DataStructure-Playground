@@ -17,7 +17,7 @@
  - [Reverse a string "Hello World" to "dlrow olleh"](ReverseString)
  - [HigherOrderFunction](HigherOrderFunction)
  - [Calculate the sum of both the main diagonal and the cross diagonal elements for a 3x3 matrix. Skip middle diagnol twice, consider only once](SumOfDiagonal)
- - [VIPER](VIPER)
- - [SolidPrinciple](SolidPrinciple)
+ - [Remove duplicate from ana array](RemoveDuplicate)
+ - [UnitTest of Private Method and Private Property](UnitTestOfPrivateMethod)
 
  */
