@@ -41,8 +41,6 @@ print(resultstring)
 //Input: How are you
 //Output: woH era uoy
 
-let str1 = "How are you"
-
 func reverseString1(str:String) -> String {
     var resultStr = ""
     var word = ""
